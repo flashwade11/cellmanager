@@ -77,7 +77,7 @@ pip install cellmanager
    manager.render_lavel_table()
    ```
 
-   <img src="https://raw.githubusercontent.com/flashwade11/PicGo/master/PicGo/20240920150926.png" style="zoom:25%;" />![image-20240920151000954](/Users/hwj/Library/Application Support/typora-user-images/image-20240920151000954.png)
+   <img src="https://raw.githubusercontent.com/flashwade11/PicGo/master/PicGo/20240920150926.png" style="zoom:25%;" />![](https://raw.githubusercontent.com/flashwade11/PicGo/master/PicGo/20240920154438.png)
 
    > [!NOTE]
    >
@@ -136,7 +136,7 @@ pip install cellmanager
    
       ![](https://raw.githubusercontent.com/flashwade11/PicGo/master/PicGo/20240920152604.png)
    
-      ![image-20240920152651034](/Users/hwj/Library/Application Support/typora-user-images/image-20240920152651034.png)
+      ![](https://raw.githubusercontent.com/flashwade11/PicGo/master/PicGo/20240920154600.png)
    
    3. Query by a custom list
    
@@ -146,4 +146,4 @@ pip install cellmanager
    
       key = [...]  everything you want to query 
    
-      ![image-20240920153038557](/Users/hwj/Library/Application Support/typora-user-images/image-20240920153038557.png)
+      ![](https://raw.githubusercontent.com/flashwade11/PicGo/master/PicGo/20240920154649.png)
